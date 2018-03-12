@@ -7,6 +7,6 @@ You'll need an api key from the above site.
 3. `node index.js`
 4. Make GraphQL queries to `http://localhost:3000/graphql`.
 
-![screenshot 1](images/screeenshot_01.png)
-![screenshot 2](images/screeenshot_02.png)
+![screenshot 1](./images/screeenshot_01.png)
+![screenshot 2](./images/screeenshot_02.png)
 
